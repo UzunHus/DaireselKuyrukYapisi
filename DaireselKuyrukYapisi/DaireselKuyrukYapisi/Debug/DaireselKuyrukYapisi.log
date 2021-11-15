@@ -1,0 +1,4 @@
+﻿  Kaynak.cpp
+C:\Users\pc\source\repos\DaireselKuyrukYapisi\DaireselKuyrukYapisi\Kaynak.cpp(43): warning C4715: 'front': tüm denetim yolları değer döndürmez
+C:\Users\pc\source\repos\DaireselKuyrukYapisi\DaireselKuyrukYapisi\Kaynak.cpp(49): warning C4715: 'back': tüm denetim yolları değer döndürmez
+  DaireselKuyrukYapisi.vcxproj -> C:\Users\pc\source\repos\DaireselKuyrukYapisi\Debug\DaireselKuyrukYapisi.exe
